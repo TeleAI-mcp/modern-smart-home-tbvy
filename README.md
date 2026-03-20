@@ -1,2 +1,3 @@
-# modern-smart-home-tbvy
+# Modern Smart Home Tbvy
+
 A repository to test GitHub automation for issue management.
